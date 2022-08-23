@@ -7,7 +7,7 @@ body {
 .newList {
   border-radius: 5px;
   width: 30vw;
-  box-shadow: 3px 3px 5px 5px lightgray;
+  box-shadow: 3px 3px 5px 5px lightgrey;
 }
 
 .today {
@@ -21,7 +21,7 @@ body {
 }
 
 #eye {
-  background-color: white;
+  background-color: #fff;
   border: none;
   margin-right: 10px;
   padding: 10px 22px 10px 20px;
